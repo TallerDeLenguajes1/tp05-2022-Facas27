@@ -1,0 +1,3 @@
+1) String es un tipo por referencia
+2) \ ,  \ , \\ , \0 , \a , \b , \f , \n , \r , \t , \v
+3)Es tedioso poner el prefijo \ para incluir todos los caracteres especiales. La cadena textual en C# permite caracteres especiales y frenos de línea. La cadena textual se puede crear anteponiendo el símbolo @ antes de las comillas dobles..El símbolo @ también se puede utilizar para declarar una cadena de varias líneas. El carácter especial $ para identificar una cadena interpolada. Una cadena interpolada es una mezcla de cadena estática y variable de cadena donde las variables de cadena deben estar entre corchetes {}.
